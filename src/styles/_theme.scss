@@ -2,6 +2,7 @@
 
 $nga-primary: mat-palette($mat-cyan);
 $nga-accent:  mat-palette($mat-cyan, A200, A100, A400);
+
 $nga-warn:    mat-palette($mat-red);
 
 $nga-theme:      mat-light-theme($nga-primary, $nga-accent, $nga-warn);

@@ -9,4 +9,3 @@ import { Product } from '../../shared/services';
 export class ProductDetailComponent {
   @Input() product: Product;
 }
-

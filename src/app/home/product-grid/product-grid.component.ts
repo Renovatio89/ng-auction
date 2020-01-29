@@ -1,23 +1,24 @@
-import { Component, Input } from '@angular/core';
+import { ChangeDetectionStrategy, Component, Input } from '@angular/core';
 import { MediaObserver } from '@angular/flex-layout';
 import { Observable } from 'rxjs';
 import { map, startWith } from 'rxjs/operators';
 import { Product } from '../../shared/services';
 
 @Component({
-  selector: 'nga-product-suggestion',
-  styleUrls: [ './product-suggestion.component.scss' ],
-  templateUrl: './product-suggestion.component.html'
+  selector: 'nga-product-grid',
+  styleUrls: [ './product-grid.component.scss' ],
+  templateUrl: './product-grid.component.html',
+  changeDetection: ChangeDetectionStrategy.OnPush
 })
-export class ProductSuggestionComponent {
+export class ProductGridComponent {
   @Input() products: Product[];
   readonly columns$: Observable<number>;
   readonly breakpointsToColumnsNumber = new Map([
-    [ 'xs', 2 ],
-    [ 'sm', 3 ],
-    [ 'md', 5 ],
-    [ 'lg', 2 ],
-    [ 'xl', 3 ],
+    [ 'xs', 1 ],
+    [ 'sm', 2 ],
+    [ 'md', 3 ],
+    [ 'lg', 4 ],
+    [ 'xl', 5 ],
   ]);
 
   constructor(private media: MediaObserver) {

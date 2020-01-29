@@ -1,12 +1,13 @@
-@import './theme';
-
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:600');
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+@import './theme';
 
 @include mat-core();
 
 @include angular-material-theme($nga-theme);
+
+
 
 html {
   -moz-osx-font-smoothing: grayscale;
@@ -18,12 +19,10 @@ html {
 }
 
 body {
+  background-color: whitesmoke;
   font-family: mat-font-family($nga-typography);
   line-height: mat-line-height($nga-typography, body-1);
   font-size: mat-font-size($nga-typography, body-1);
   height: 100%;
   margin: 0;
-  // color: #212121;
-  background-color: whitesmoke;
-
 }

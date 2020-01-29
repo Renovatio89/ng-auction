@@ -5,20 +5,13 @@
   height: 100%;
 }
 
-/*mat-sidenav-container {
+mat-sidenav-container {
   height: 100%;
 }
-
-mat-sidenav {
-  border-left: solid 1px mat-color($nga-foreground, divider);
-  padding: 24px;
-}*/
 
 .toolbar {
   background-color: mat-color($nga-background, card);
   position: relative;
-
-  box-shadow: 0 1px mat-color($nga-foreground, divider);
 }
 
 .toolbar__logo-title-group {
