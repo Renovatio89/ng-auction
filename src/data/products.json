@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "description" : "Czy to nie fajnie, jak coś wygląda na stare, choć wcale takie nie jest? Sam stary wygląd nie sprawia, że niesamowite towary retro oferują inteligentne funkcje. To retro radio właśnie zostało ulepszone. Połącz się z nim za pomocą aplikacji i zrelaksuj się przy swoich ulubionych hitach.",
+    "imageUrl" : "data/img/radio.png",
+    "price" : 300,
+    "title" : "Radio Bluetooth retro"
+  },
+  {
+    "id": 2,
+    "description" : "Bądź optymistą. Zawsze noś ze sobą okulary przeciwsłoneczne. Wszystkie produkty Tints i Shades są wyposażone w spolaryzowane soczewki i silną ochronę przed promieniowaniem UV, dzięki czemu możesz patrzeć na słońce, jak długo chcesz. Okulary przeciwsłoneczne sprawiają, że wyglądasz świetnie, noś je.",
+    "featured" : true,
+    "imageUrl" : "data/img/sunnies.png",
+    "price" : 70,
+    "title" : "Okulary przeciwsłoneczne"
+  },
+  {
+    "id": 3,
+    "description" : "Timekeeper Co produkuje zegary, które precyzyjnie mierzą czas. Zegar jest bardzo prosty w użyciu, ustaw czas za pomocą telefonu, powieś go i gotowe! Nigdy więcej się nie spóźnisz.",
+    "featured" : true,
+    "imageUrl" : "data/img/clock.png",
+    "price" : 120,
+    "title" : "Zegar"
+  },
+  {
+    "id": 4,
+    "description" : "Wygląd może być mylący. Ten czerwony lód na patyku jest dostępny w różnych smakach, również w truskawkowym, które uwalniają się natychmiastowo. Te lody topią się powoli, więc delektuj się smakiem.",
+    "featured" : true,
+    "imageUrl" : "data/img/popsicle.png",
+    "price" : 300,
+    "title" : "Czerwony lód na patyku"
+  },
+  {
+    "id": 5,
+    "description" : "Feetsy produkuje niezwykłe balerinki od dziesięcioleci. Za każdą zakupioną parę butów Feetsy przekazuje jedną parę na rzecz osób potrzebujących. Jeśli zakupisz jedną parę dla siebie, obdarujesz również kogoś innego. Są bardzo wygodne.",
+    "featured" : true,
+    "imageUrl" : "data/img/green-shoes.png",
+    "price" : 75,
+    "title" : "Zielone balerinki"
+  },
+  {
+    "id": 6,
+    "description" : "Zaimponuj swoim gościom dzbankiem do herbaty Kitchen Stuff. Jest odporny na wysokie temperatury. Używaj uchwytu, aby nie poparzyć sobie rąk podczas nalewania.",
+    "featured" : true,
+    "imageUrl" : "data/img/teapot.png",
+    "price" : 210,
+    "title" : "Dzbanek do herbaty"
+  },
+  {
+    "id": 7,
+    "description" : "Kto potrzebuje spodni, kiedy ma buty! To wygodne i stylowe tenisówki, więc możesz od razu zakupić kilka par.",
+    "imageUrl" : "data/img/chucks.png",
+    "price" : 89,
+    "title" : "Tenisówki"
+  },
+  {
+    "id": 8,
+    "description" : "Firma WeDipIt zrobiła to ponownie. Ten pędzel z rękojeścią umaczaną na głębokość 4 cali idealnie nadaje się do malowania 4-calowych linii lub kolorowania na dużych powierzchniach. Upewnij się jednak, że nie upuścisz go do wiadra z czerwoną farbą, poniewaŻ wtedy nie będzie już wyglądał na umaczany.",
+    "imageUrl" : "data/img/brush.png",
+    "price" : 25,
+    "title" : "Umaczany pędzel"
+  },
+  {
+    "id": 9,
+    "description" : "Perfect Bowl Co produkuje najlepsze kuliste pojemniki niemal na wszystko, co można sobie wyobrazić. To akwarium nie przepuszcza wody i jest idealne dla złotej rybki. Świetnie prezentuje się w salonie. Trzymać z dala od kotów.",
+    "imageUrl" : "data/img/fish_bowl.png",
+    "price" : 25,
+    "title" : "Idealne akwarium dla złotej rybki"
+  },
+  {
+    "id": 10,
+    "description" : "Próbujesz znaleźć idealny odcień pasujący do Twojego nastroju? Nie musisz już dłużej szukać. Zestaw czerwonych szminek firmy StickLips nadaje się zarówno do pracy, jak i na wieczorne wyjścia.",
+    "imageUrl" : "data/img/lipstick.png",
+    "price" : 25,
+    "title" : "Zestaw czerwonych szminek"
+  },
+  {
+    "id": 11,
+    "description" : "Ten plecak marki Bags ‘n’ stuff może pomieścić prawie wszystko: laptop, długopis, kątomierz, laptop, małe zwierzęta, wtyczki do urządzeń, okulary przeciwsłoneczne, ubrania sportowe, buty, rękawiczki, dwa kotki, a nawet lunch!",
+    "imageUrl" : "data/img/backpack.png",
+    "price" : 25,
+    "title" : "Plecak"
+  },
+  {
+    "id": 12,
+    "description" : "Brak ochronnej szybki sprawia, że jest to odpowiedni kask na ciepłe, letnie dni na drodze. Te kaski zostały rygorystycznie przetestowane i posiadają atest Dot. Nigdy nie zapominaj o ochronie głowy.",
+    "imageUrl" : "data/img/helmet.png",
+    "price" : 25,
+    "title" : "Kask motocyklowy"
+  },
+  {
+    "id": 13,
+    "description" : "Grasz w baseball i czujesz się znudzony? Szukasz rozrywki na imprezie przy basenie? A może potrzebujesz wyładować na czymś swój gniew? Nadmuchiwana piłka plażowa idealnie nadaje się do tego wszystkiego.",
+    "imageUrl" : "data/img/beachball.png",
+    "price" : 25,
+    "title" : "Piłka plażowa"
+  },
+  {
+    "id": 14,
+    "description" : "Ta lornetka marki See Through jest niesamowita i może sprawić, że rzeczy, które są naprawdę daleko, wydają się być tuż przed tobą. Weź ją ze sobą na plażę. Albo kup tanie miejsca na ważny mecz i poczuj się, jakbyś był w samym środku akcji.",
+    "imageUrl" : "data/img/binoculars.png",
+    "price" : 25,
+    "title" : "Stara lornetka"
+  },
+  {
+    "id": 15,
+    "description" : "Płetwy mogą się przydać, gdy jesteś ścigany przez ogromnego żółwia morskiego. Dzięki nim nigdy więcej nie dasz się złapać. Będziesz jak ryba, tylko będziesz pływać z większym wdziękiem.",
+    "imageUrl" : "data/img/flippers.png",
+    "price" : 25,
+    "title" : "Zielone płetwy"
+  },
+  {
+    "id": 16,
+    "description" : "Kto powiedział, że nie możesz chodzić po wodzie? Dzięki desce surfingowej marki Surfboard Supply, możesz latać nad wodą. Ta bestia jest szybka i radzi sobie jak porsche. Hang Ten, stary!",
+    "imageUrl" : "data/img/surfboard.png",
+    "price" : 25,
+    "title" : "Deska surfingowa"
+  }
+]
